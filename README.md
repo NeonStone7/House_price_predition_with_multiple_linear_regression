@@ -1,2 +1,2 @@
-# My_data_projects
-Hello, welcome to my page. This contains the projects I've done from data analysis, exploratory data analysis, machine learning
+# House_price_prediction_with_multiple_linear_regression
+Predicting apartment prices wth neighborhood, location and area.
